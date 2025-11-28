@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋%20I'm%20Rehan%20Jamil&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&descendant=true" alt="header" />
+</div>
 
-<!--
-**rehanjamil41/rehanjamil41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=rehanjamil41&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanjamil41&theme=tokyonight" height="150" alt="streak graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanjamil41&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
+
+</div>
+
+<br/>
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=html,css,js" width="160" /><br>
+      <b>Frontend</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="160" /><br>
+      <b>Backend</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=python,mysql,excel" width="160" /><br>
+      <b>Data/Tools</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" width="160" /><br>
+      <b>Others</b>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rehanjamil41&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<div align="center">
+  <a href="mailto:rehanjamilwattoo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/rehanjamil41">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
