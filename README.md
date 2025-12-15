@@ -5,11 +5,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rehanjamil41&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanjamil41&theme=tokyonight" height="150" alt="streak graph"  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanjamil41&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
 
 </div>
 
@@ -42,7 +39,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:rehanjamilwattoo@gmail.com">
+  <a href="mailto:rehanjamilwattoo@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/rehanjamil41">
