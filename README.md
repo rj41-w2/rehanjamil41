@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋%20I'm%20Rehan%20Jamil&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&descendant=true" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20Rehan Jamil%20I'm%20Rehan%20Jamil&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff&descendant=true" alt="header" />
 </div>
 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanjamil41&theme=tokyonight" height="150" alt="streak graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rj41-w2&theme=tokyonight" height="150" alt="streak graph"  />
 
 
 </div>
@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:rehanjamilwattoo@outlook.com">
+  <a href="mailto:rehanjamilwattoo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/rehanjamil41">
